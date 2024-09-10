@@ -1,0 +1,14 @@
+E:\.NET_sutdying\Library\Testing\Testing\bin\Debug\net8.0\Testing.exe
+E:\.NET_sutdying\Library\Testing\Testing\bin\Debug\net8.0\Testing.deps.json
+E:\.NET_sutdying\Library\Testing\Testing\bin\Debug\net8.0\Testing.runtimeconfig.json
+E:\.NET_sutdying\Library\Testing\Testing\bin\Debug\net8.0\Testing.dll
+E:\.NET_sutdying\Library\Testing\Testing\bin\Debug\net8.0\Testing.pdb
+E:\.NET_sutdying\Library\Testing\Testing\obj\Debug\net8.0\Testing.GeneratedMSBuildEditorConfig.editorconfig
+E:\.NET_sutdying\Library\Testing\Testing\obj\Debug\net8.0\Testing.AssemblyInfoInputs.cache
+E:\.NET_sutdying\Library\Testing\Testing\obj\Debug\net8.0\Testing.AssemblyInfo.cs
+E:\.NET_sutdying\Library\Testing\Testing\obj\Debug\net8.0\Testing.csproj.CoreCompileInputs.cache
+E:\.NET_sutdying\Library\Testing\Testing\obj\Debug\net8.0\Testing.dll
+E:\.NET_sutdying\Library\Testing\Testing\obj\Debug\net8.0\refint\Testing.dll
+E:\.NET_sutdying\Library\Testing\Testing\obj\Debug\net8.0\Testing.pdb
+E:\.NET_sutdying\Library\Testing\Testing\obj\Debug\net8.0\Testing.genruntimeconfig.cache
+E:\.NET_sutdying\Library\Testing\Testing\obj\Debug\net8.0\ref\Testing.dll
